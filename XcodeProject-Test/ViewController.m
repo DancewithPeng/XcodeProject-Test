@@ -37,10 +37,6 @@
     
     /**
      这是一个测试
-     asdfasdfasdfasd
-     asdfasdf
-     asdfasdfasdf
-     asdfasdfasdf
      */
 }
 
